@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Colorblocked Hoodie",
+        "image": "https://m.media-amazon.com/images/I/61IBEbVhbZL._AC_UL320_.jpg",
+        "price": 120.00,
+        "color": "Green",
+        "size": "S",
+        "category": "Hoodie",
+        "inStock": true,
+        "totalAvailableQuantity": 17
+    },
+    {
+        "id": 2,
+        "name": "Unisex Printed Hoodie",
+        "image": "https://m.media-amazon.com/images/I/51hsAqHX7BL._AC_UL320_.jpg",
+        "price": 140.00,
+        "color": "Brown",
+        "size": "M",
+        "category": "Hoodie",
+        "inStock": true,
+        "totalAvailableQuantity": 12
+    },
+    {
+        "id": 3,
+        "name": "Cotton Zipper Hoodie",
+        "image": "https://m.media-amazon.com/images/I/61+8bVgNxjL._AC_UL320_.jpg",
+        "price": 245.00,
+        "color": "Blue",
+        "size": "L",
+        "category": "Hoodie",
+        "inStock": true,
+        "totalAvailableQuantity": 14
+    },
+    {
+        "id": 4,
+        "name": "Adult Polyester Hoodie  ",
+        "image": "https://m.media-amazon.com/images/I/41iwLuxR4bL._AC_UL320_.jpg",
+        "price": 150.00,
+        "color": "Grey",
+        "size": "XL",
+        "category": "Hoodie",
+        "inStock": true,
+        "totalAvailableQuantity": 16
+    },
+    {
+        "id": 5,
+        "name": "Cotton Hoodies",
+        "image": "https://m.media-amazon.com/images/I/61YWB-llUbL._AC_UL320_.jpg",
+        "price": 255.00,
+        "color": "Sky-Blue",
+        "size": "XXL",
+        "category": "Hoodie",
+        "inStock": true,
+        "totalAvailableQuantity": 18
+    },
+    {
+        "id": 6,
+        "name": "Blend Men's T-Shirt",
+        "image": "https://m.media-amazon.com/images/I/81MQWWMAhiL._AC_UL320_.jpg",
+        "price": 535.00,
+        "color": "White",
+        "size": "S",
+        "category": "T-Shirt",
+        "inStock": true,
+        "totalAvailableQuantity": 10
+    },
+    {
+        "id": 7,
+        "name": "Men's Polo T-Shirt",
+        "image": "https://m.media-amazon.com/images/I/51zi-+aRReL._AC_UL320_.jpg",
+        "price": 40.00,
+        "color": "Blue",
+        "size": "M",
+        "category": "T-Shirt",
+        "inStock": true,
+        "totalAvailableQuantity": 12
+    },
+    {
+        "id": 8,
+        "name": "Polo Neck T-Shirt",
+        "image": "https://5.imimg.com/data5/FW/GT/MY-23375112/men-s-yellow-color-t-shirt-500x500.jpg",
+        "price": 45.00,
+        "color": "Yellow",
+        "size": "L",
+        "category": "T-Shirt",
+        "inStock": true,
+        "totalAvailableQuantity": 14
+    },
+    {
+        "id": 9,
+        "name": "Men's Fit T-Shirt ",
+        "image": "https://m.media-amazon.com/images/I/51TaiY0LxlL._UL1087_.jpg",
+        "price": 50.00,
+        "color": "Green",
+        "size": "XL",
+        "category": "T-Shirt",
+        "inStock": true,
+        "totalAvailableQuantity": 16
+    },
+    {
+        "id": 10,
+        "name": "Sleeve Printed  T-Shirt",
+        "image": "https://5.imimg.com/data5/XQ/IH/MY-29746767/t-shirt-500x500.jpg",
+        "price": 55.00,
+        "color": "Blue",
+        "size": "XXL",
+        "category": "T-Shirt",
+        "inStock": true,
+        "totalAvailableQuantity": 18
+    }
+]
